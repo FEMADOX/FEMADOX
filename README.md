@@ -8,7 +8,7 @@
 
 ## SUMMARY
 
-Experienced back-end python developer who has more than 1 year building websites with Django with strong bases in HTML, CSS and JS focusing on delivering impactful results, eager to tackle dynamic challenges and write efficient code to build robust applications, demonstrated proficiency in project management, project solving, and fluid collaboration across partners. Skilled in learning and applying the latest technologies that revolutionize the technology market and methodologies to streamline processes and elevate clients satisfaction.
+Back-end python developer using Django with strong bases in HTML, CSS and JS focusing on delivering impactful results, eager to tackle dynamic challenges and write efficient code to build robust applications, demonstrated proficiency in project management, project solving, and fluid collaboration across partners. Skilled in learning and applying the latest technologies that revolutionize the technology market and methodologies to streamline processes and elevate clients satisfaction.
 
 ---
 
