@@ -14,11 +14,38 @@ Back-end python developer using Django with strong bases in HTML, CSS and JS foc
 
 ## 🛠️ TECHNICAL SKILLS
 
-| Programming Languages | Frameworks & Libraries | Databases & Tools |
-|:---------------------:|:----------------------:|:-----------------:|
-| Python Programming Language | Django and DRF | PostgreSQL |
-| HTML / CSS | Tests with Pytest framework | MySQL |
-| JavaScript / TypeScript | React | Docker |
+### Back-End
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+
+### Back-End Tools
+![Pytest](https://img.shields.io/badge/pytest-svg?style=for-the-badge&logo=pytest&logoColor=white&color=%230A9EDC)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![UV](https://img.shields.io/badge/uv-svg?style=for-the-badge&logo=uv&logoColor=white&color=%23DE5FE9)
+
+### Front-End
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-purple?style=for-the-badge&logo=css)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-cyan?style=for-the-badge&logo=tailwindcss&color-%2306B6D4)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+### DevOps
+![Github Actions](https://camo.githubusercontent.com/04c54f841079c668ea170e306746654fd6692f1c84d8ad205a6c538136ed41cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875625f416374696f6e732d3230383846463f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465)
+![Render](https://img.shields.io/badge/render-svg?style=for-the-badge&logo=render&logoColor=white&color=black)
+![Railway](https://img.shields.io/badge/railway-svg?style=for-the-badge&logo=railway&logoColor=white&color=%230B0D0E)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### Databases
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Others
+![Git](https://camo.githubusercontent.com/8a6912ffd6e3bba0d696c8803e3ff21a37f24cbca4a3433e23af910250e974ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+![Copilot](https://img.shields.io/badge/copilot-svg?style=for-the-badge&logo=githubcopilot&logoColor=white&color=black)
+![Jetbrains](https://img.shields.io/badge/jetbrains-svg?style=for-the-badge&logo=jetbrains&logoColor=white&color=black)
+![VS code](https://camo.githubusercontent.com/dc2ea3cfd3c6c58a97171bbd6e78b0b983a6cf4a7f9c3e223b5126f2feaac9b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56535f436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
@@ -70,7 +97,7 @@ Back-end python developer using Django with strong bases in HTML, CSS and JS foc
 
 ## 🚀 Current Focus
 
-- 🌱 I'm currently learning more about **front-end development**
+- 🌱 I'm currently learning more about **back-end specializes**
 - 💞️ I'm looking to collaborate on **any web project**
 - 🎯 Working on improving my **full-stack development** skills
 - 📚 Exploring **modern web technologies** and **best practices**
