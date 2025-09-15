@@ -26,6 +26,7 @@ Back-end python developer using Django with strong bases in HTML, CSS and JS foc
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-purple?style=for-the-badge&logo=css)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-svg?style=for-the-badge&logo=typescript&logoColor=%233178C6&color=%23323330)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-cyan?style=for-the-badge&logo=tailwindcss&color-%2306B6D4)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
