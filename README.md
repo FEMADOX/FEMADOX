@@ -49,16 +49,7 @@ Back-end python developer using Django with strong bases in HTML, CSS and JS foc
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
-
-## 💼 PERSONAL EXPERIENCE
-
-### 🏋️ Web Developer - Fitness Club Page Project
-
-#### Feb 2025 - Present
-
-- **API Rest with Django Rest Framework and React** for the front-end.
-- Django Rest Framework used to build the API Rest. Implemented the JWT Authentication and normal user session authentication, with the viewsets from DRF user can create, edit and delete their workout plans from the website and use filters on their plans. I had include tests using pytest for the correct functionality of the API Rest. Also rendering all the front-end with the library ReactJS.
-- **GitHub:** [Fitness Club Page Project Demo](https://github.com/FEMADOX)
+## 💼 My Proyects
 
 ### 🌐 Web Developer - Django E-commerce Project
 
@@ -66,15 +57,23 @@ Back-end python developer using Django with strong bases in HTML, CSS and JS foc
 
 - **E-commers created with Django**. Cart, user management and payments in Stripe included.
 - With Django as a python web framework, I've created the website from scratch, user authentication, shopping cart logic, order validator and a robust payment using the Stripe platform.
-- **Website:** [E-commerce](https://github.com/FEMADOX)
+- **Website:** [E-commerce](https://django-e-commers.vercel.app/)
 
 ### 🌐 Web Developer - Django Social Website
 
-#### Oct 2024 - Present
+#### Oct 2024 - Agust 2025
 
 - **Social website clone with Django**. Like, follow and user authentications implementation.
 - Django used as the main technology to craft this social website clone where users can upload from interact images to the website using bookmarks, user basic authentication and OAuth2 with Google and X, I build a website where users can follow other users and like their photos as well.
-- **Website:** [Social Website](https://github.com/FEMADOX)
+- **Website:** [Social Website](https://django-social-website-hade.onrender.com/)
+
+### 🏋️ Web Developer - Fitness Club Page Project
+
+#### Feb 2025 - Present
+
+- **API Rest with Django Rest Framework and React** for the front-end.
+- Django Rest Framework used to build the API Rest. Implemented the JWT Authentication and normal user session authentication, with the viewsets from DRF user can create, edit and delete their workout plans from the website and use filters on their plans. I had include tests using pytest for the correct functionality of the API Rest. Also rendering all the front-end with the library ReactJS.
+- **GitHub:** [Fitness Club Page Project Demo](https://github.com/FEMADOX/Fitness-Club-Page)
 
 ---
 
