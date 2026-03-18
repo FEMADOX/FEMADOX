@@ -58,7 +58,16 @@ Back-end python developer using Django with strong bases in HTML, CSS and JS foc
 
 ### 🌐 Web Developer - Django E-commerce Project
 
-#### Jan 2025 - Present
+#### Mar 2026 - Present
+
+- Project using full FastAPI Ecosystem, focus in implement RESTfull async endpoints with a high
+performance and good software development practices.
+- Implementing clean architecture, Pydantic for advance validation and full type annotation on the entire
+project, SQLAlchemy as ORM with Alembic as migrations manager, Pytest as testing framework and
+using Postgres inside Docker Container
+- **Github:** https://github.com/FEMADOX/Fastapi-Ecosystem-Lab/
+
+#### Jan 2025 - Jan 2026
 
 - **E-commers created with Django**. Cart, user management and payments in Stripe included.
 - With Django as a python web framework, I've created the website from scratch, user authentication, shopping cart logic, order validator and a robust payment using the Stripe platform.
@@ -72,13 +81,7 @@ Back-end python developer using Django with strong bases in HTML, CSS and JS foc
 - Django used as the main technology to craft this social website clone where users can upload from interact images to the website using bookmarks, user basic authentication and OAuth2 with Google and X, I build a website where users can follow other users and like their photos as well.
 - **Website:** [Social Website](https://django-social-website-hade.onrender.com/)
 
-### 🏋️ Web Developer - Fitness Club Page Project
-
-#### Feb 2025 - Present
-
-- **API Rest with Django Rest Framework and React** for the front-end.
-- Django Rest Framework used to build the API Rest. Implemented the JWT Authentication and normal user session authentication, with the viewsets from DRF user can create, edit and delete their workout plans from the website and use filters on their plans. I had include tests using pytest for the correct functionality of the API Rest. Also rendering all the front-end with the library ReactJS.
-- **GitHub:** [Fitness Club Page Project Demo](https://github.com/FEMADOX/Fitness-Club-Page)
+### 🌐 Backend Dev - FastAPI Ecosystem Lab
 
 ---
 
