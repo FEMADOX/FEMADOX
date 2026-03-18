@@ -54,9 +54,10 @@ Back-end python developer using Django with strong bases in HTML, CSS and JS foc
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
+
 ## 💼 My Proyects
 
-### 🌐 Web Developer - Django E-commerce Project
+### 🌐 Backend Dev - FastAPI Ecosystem Lab
 
 #### Mar 2026 - Present
 
@@ -66,6 +67,8 @@ performance and good software development practices.
 project, SQLAlchemy as ORM with Alembic as migrations manager, Pytest as testing framework and
 using Postgres inside Docker Container
 - **Github:** https://github.com/FEMADOX/Fastapi-Ecosystem-Lab/
+
+### 🌐 Web Developer - Django E-commerce Project
 
 #### Jan 2025 - Jan 2026
 
@@ -80,8 +83,6 @@ using Postgres inside Docker Container
 - **Social website clone with Django**. Like, follow and user authentications implementation.
 - Django used as the main technology to craft this social website clone where users can upload from interact images to the website using bookmarks, user basic authentication and OAuth2 with Google and X, I build a website where users can follow other users and like their photos as well.
 - **Website:** [Social Website](https://django-social-website-hade.onrender.com/)
-
-### 🌐 Backend Dev - FastAPI Ecosystem Lab
 
 ---
 
