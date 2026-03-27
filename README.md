@@ -30,17 +30,23 @@ Back-end python developer using Django with strong bases in HTML, CSS and JS foc
 ### Front-End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-purple?style=for-the-badge&logo=css)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-cyan?style=for-the-badge&logo=tailwindcss&color-%2306B6D4)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)\
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-svg?style=for-the-badge&logo=typescript&logoColor=%233178C6&color=%23323330)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-cyan?style=for-the-badge&logo=tailwindcss&color-%2306B6D4)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NextJS](https://img.shields.io/badge/next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black)
+
+### Front-End Tools
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-ff1709?style=for-the-badge&logo=pnpm&logoColor=white&color=F69220&labelColor=gray)
+![VITE](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 
 ### DevOps
 ![Github Actions](https://camo.githubusercontent.com/3b0d21c2653adf9823e14311f177d6df15d9784824fbd6849ba0822f973bf540/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875625f416374696f6e732d3230383846463f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465)
 ![Render](https://img.shields.io/badge/render-svg?style=for-the-badge&logo=render&logoColor=white&color=black)
 ![Railway](https://img.shields.io/badge/railway-svg?style=for-the-badge&logo=railway&logoColor=white&color=%230B0D0E)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Databases
