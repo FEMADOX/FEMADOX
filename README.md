@@ -2,7 +2,7 @@
 
 ## 💻 WEB DEVELOPER
 
-**📍 La Habana, Cuba** | **🔗 GitHub:** [@FEMADOX](https://github.com/FEMADOX)
+**📍 Asuncion, Paraguay ** **🔗 GitHub:** [@FEMADOX](https://github.com/FEMADOX)
 
 ---
 
