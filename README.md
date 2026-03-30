@@ -2,7 +2,7 @@
 
 ## 💻 WEB DEVELOPER
 
-**📍 Asuncion, Paraguay ** **🔗 GitHub:** [@FEMADOX](https://github.com/FEMADOX)
+**🔗 GitHub:** [@FEMADOX](https://github.com/FEMADOX)
 
 ---
 
