@@ -2,8 +2,6 @@
 
 ## 💻 WEB DEVELOPER
 
-**🔗 GitHub:** [@FEMADOX](https://github.com/FEMADOX)
-
 ---
 
 ## SUMMARY
@@ -63,7 +61,7 @@ Back-end python developer using Django with strong bases in HTML, CSS and JS foc
 
 ## 💼 My Proyects
 
-### 🌐 Backend Dev - FastAPI Ecosystem Lab
+### 🌐 Full Stack Developer - FastAPI Ecosystem Lab
 
 #### Mar 2026 - Present
 
@@ -112,7 +110,7 @@ using Postgres inside Docker Container
 
 ## 🚀 Current Focus
 
-- 🌱 I'm currently learning more about **back-end specializes**
+- 🌱 I'm currently learning more about **front-end specializes**
 - 💞️ I'm looking to collaborate on **any web project**
 - 🎯 Working on improving my **full-stack development** skills
 - 📚 Exploring **modern web technologies** and **best practices**
