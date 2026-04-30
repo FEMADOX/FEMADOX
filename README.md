@@ -8,6 +8,8 @@
 
 Back-end python developer using Django with strong bases in HTML, CSS and JS focusing on delivering impactful results, eager to tackle dynamic challenges and write efficient code to build robust applications, demonstrated proficiency in project management, project solving, and fluid collaboration across partners. Skilled in learning and applying the latest technologies that revolutionize the technology market and methodologies to streamline processes and elevate clients satisfaction.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio_Web-0077B5?style=for-the-badge&logo=portfolio_web&logoColor=white)](https://giancarlos-portfolio.vercel.app/)
+
 ---
 
 ## 🛠️ TECHNICAL SKILLS
@@ -59,47 +61,6 @@ Back-end python developer using Django with strong bases in HTML, CSS and JS foc
 
 ---
 
-## 💼 My Proyects
-
-### 🌐 Full Stack Developer - FastAPI Ecosystem Lab
-
-#### Mar 2026 - Present
-
-- Project using full FastAPI Ecosystem, focus in implement RESTfull async endpoints with a high
-performance and good software development practices.
-- Implementing clean architecture, Pydantic for advance validation and full type annotation on the entire
-project, SQLAlchemy as ORM with Alembic as migrations manager, Pytest as testing framework and
-using Postgres inside Docker Container
-- **Github:** https://github.com/FEMADOX/Fastapi-Ecosystem-Lab/
-
-### 🌐 Web Developer - Django E-commerce Project
-
-#### Jan 2025 - Jan 2026
-
-- **E-commers created with Django**. Cart, user management and payments in Stripe included.
-- With Django as a python web framework, I've created the website from scratch, user authentication, shopping cart logic, order validator and a robust payment using the Stripe platform.
-- **Website:** [E-commerce](https://django-e-commers.vercel.app/)
-
-### 🌐 Web Developer - Django Social Website
-
-#### Oct 2024 - Agust 2025
-
-- **Social website clone with Django**. Like, follow and user authentications implementation.
-- Django used as the main technology to craft this social website clone where users can upload from interact images to the website using bookmarks, user basic authentication and OAuth2 with Google and X, I build a website where users can follow other users and like their photos as well.
-- **Website:** [Social Website](https://django-social-website-hade.onrender.com/)
-
----
-
-## 🎓 EDUCATION
-
-### 🎓 Bachelor in IPU Eduardo García Delgado
-
-#### Jan 2018 - Jun 2021
-
-- Participation in informatic competitions that have posed great challenges to develop my skills as a programmer.
-
----
-
 ## 🌟 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FEMADOX&show_icons=true&theme=radical)
@@ -120,10 +81,8 @@ using Postgres inside Docker Container
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giancarlos-gonz%C3%A1lez-leyva/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FEMADOX)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-**⚡ Fun fact:** I'm from Cuba 🇨🇺
+[![Portfolio](https://img.shields.io/badge/Portfolio_Web-0077B5?style=for-the-badge&logo=portfolio_web&logoColor=white)](https://giancarlos-portfolio.vercel.app/)
 
 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
