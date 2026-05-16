@@ -1,12 +1,12 @@
 # GIANCARLOS GONZÁLEZ
 
-## 💻 WEB DEVELOPER
+## 💻 Full-Stack Web Developer
 
 ---
 
 ## SUMMARY
 
-Back-end python developer using Django with strong bases in HTML, CSS and JS focusing on delivering impactful results, eager to tackle dynamic challenges and write efficient code to build robust applications, demonstrated proficiency in project management, project solving, and fluid collaboration across partners. Skilled in learning and applying the latest technologies that revolutionize the technology market and methodologies to streamline processes and elevate clients satisfaction.
+Full-Stack Web Developer with experience building production-oriented web applications using Django, FastAPI, TypeScript, React and Next.js. Strong focus on clean architecture, API development, testing, PostgreSQL, Docker, and maintainable code. Comfortable working in remote environments and collaborating through clear documentation and strong problem-solving.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio_Web-0077B5?style=for-the-badge&logo=portfolio_web&logoColor=white)](https://giancarlos-portfolio.vercel.app/)
 
@@ -23,9 +23,8 @@ Back-end python developer using Django with strong bases in HTML, CSS and JS foc
 ![Uvicorn](https://img.shields.io/badge/uvicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 ### Back-End Tools
-![Pytest](https://img.shields.io/badge/pytest-svg?style=for-the-badge&logo=pytest&logoColor=white&color=%230A9EDC)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![UV](https://img.shields.io/badge/uv-svg?style=for-the-badge&logo=uv&logoColor=white&color=%23DE5FE9)
+![Pytest](https://img.shields.io/badge/pytest-svg?style=for-the-badge&logo=pytest&logoColor=white&color=%230A9EDC)
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,16 +37,16 @@ Back-end python developer using Django with strong bases in HTML, CSS and JS foc
 ![NextJS](https://img.shields.io/badge/next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black)
 
 ### Front-End Tools
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-ff1709?style=for-the-badge&logo=pnpm&logoColor=white&color=F69220&labelColor=gray)
 ![VITE](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
+![VITETEST](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 ### DevOps
 ![Github Actions](https://camo.githubusercontent.com/3b0d21c2653adf9823e14311f177d6df15d9784824fbd6849ba0822f973bf540/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875625f416374696f6e732d3230383846463f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/render-svg?style=for-the-badge&logo=render&logoColor=white&color=black)
 ![Railway](https://img.shields.io/badge/railway-svg?style=for-the-badge&logo=railway&logoColor=white&color=%230B0D0E)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -69,20 +68,11 @@ Back-end python developer using Django with strong bases in HTML, CSS and JS foc
 
 ---
 
-## 🚀 Current Focus
-
-- 🌱 I'm currently learning more about **front-end specializes**
-- 💞️ I'm looking to collaborate on **any web project**
-- 🎯 Working on improving my **full-stack development** skills
-- 📚 Exploring **modern web technologies** and **best practices**
-
----
-
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giancarlos-gonz%C3%A1lez-leyva/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio_Web-0077B5?style=for-the-badge&logo=portfolio_web&logoColor=white)](https://giancarlos-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K&logoColor=white)](https://www.linkedin.com/in/giancarlos-gonzalez-leyva/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enmadofenyxz@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white&color=#25D366)](https://wa.me/+595994672211)
 
 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
