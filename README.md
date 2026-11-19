@@ -8,7 +8,7 @@
 
 Full-Stack Web Developer with experience building production-oriented web applications using Django, FastAPI, TypeScript, React and Next.js. Strong focus on clean architecture, API development, testing, PostgreSQL, Docker, and maintainable code. Comfortable working in remote environments and collaborating through clear documentation and strong problem-solving.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio_Web-0077B5?style=for-the-badge&logo=portfolio_web&logoColor=white)](https://giancarlos-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio_Web-0077B5?style=for-the-badge&logo=portfolio_web&logoColor=white)](https://giancarlos.is-a.dev/)
 
 ---
 
